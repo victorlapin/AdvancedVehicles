@@ -6,7 +6,7 @@
     "Author": "Victor Lapin",
     "Website": "https://github.com/victorlapin/AdvancedVehicles",
     "Contact": "victor.lapin@outlook.com",
-	"DependsOn" : [ "HardcoreWeapons" ],
+	"DependsOn" : [ "HardcoreWeapons", "StreakMissileLaunchers" ],
 	
 	"Manifest": [
         { "Type": "VehicleDef", "Path": "vehicle/" },
