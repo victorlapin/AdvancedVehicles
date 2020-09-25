@@ -1,0 +1,15 @@
+{
+    "Name": "AdvancedVehicles",
+    "Enabled": true,
+    "Version": "1.9.1-001b",
+    "Description": "Introduces vehicles with advanced weapons on board",
+    "Author": "Victor Lapin",
+    "Website": "https://github.com/victorlapin/AdvancedVehicles",
+    "Contact": "victor.lapin@outlook.com",
+	"DependsOn" : [ "HardcoreWeapons" ],
+	
+	"Manifest": [
+        { "Type": "VehicleDef", "Path": "vehicle/" },
+		{ "Type": "VehicleChassisDef", "Path": "vehicleChassis/" }
+    ]
+}
