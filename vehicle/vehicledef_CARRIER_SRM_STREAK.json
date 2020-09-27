@@ -108,20 +108,6 @@
 		 "DamageLevel" : "Functional"
       },
       {
-         "ComponentDefID" : "Weapon_Streak_SRM_SRM6_0-STOCK",
-         "ComponentDefType" : "Weapon",
-         "MountedLocation" : "Front",
-		 "HardpointSlot" : 8,
-		 "DamageLevel" : "Functional"
-      },
-      {
-         "ComponentDefID" : "Weapon_Streak_SRM_SRM6_0-STOCK",
-         "ComponentDefType" : "Weapon",
-         "MountedLocation" : "Front",
-		 "HardpointSlot" : 9,
-		 "DamageLevel" : "Functional"
-      },
-      {
          "ComponentDefID" : "Ammo_AmmunitionBox_Generic_SRMStreak",
          "ComponentDefType" : "AmmunitionBox",
          "MountedLocation" : "Front",
