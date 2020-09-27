@@ -59,31 +59,10 @@
 		 "DamageLevel" : "Functional"
       },
       {
-         "ComponentDefID" : "Weapon_ATM_IATM12_0-STOCK",
+         "ComponentDefID" : "Weapon_ATM_IATM6_0-STOCK",
          "ComponentDefType" : "Weapon",
          "MountedLocation" : "Front",
 		 "HardpointSlot" : 1,
-		 "DamageLevel" : "Functional"
-      },
-      {
-         "ComponentDefID" : "Weapon_ATM_IATM12_0-STOCK",
-         "ComponentDefType" : "Weapon",
-         "MountedLocation" : "Front",
-		 "HardpointSlot" : 2,
-		 "DamageLevel" : "Functional"
-      },
-      {
-         "ComponentDefID" : "Ammo_AmmunitionBox_Generic_LRM",
-         "ComponentDefType" : "AmmunitionBox",
-         "MountedLocation" : "Front",
-		 "HardpointSlot" : -1,
-		 "DamageLevel" : "Functional"
-      },
-      {
-         "ComponentDefID" : "Ammo_AmmunitionBox_Generic_LRM",
-         "ComponentDefType" : "AmmunitionBox",
-         "MountedLocation" : "Front",
-		 "HardpointSlot" : -1,
 		 "DamageLevel" : "Functional"
       },
       {
