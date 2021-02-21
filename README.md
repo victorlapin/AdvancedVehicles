@@ -1,6 +1,6 @@
 # AdvancedVehicles
 
-[Battletech Mod][ModTek] Introduces new vehicles with some advanced weapons on board. NOT lore friendly!
+[Battletech Mod][ModTek] Introduces new vehicles and Mechs with some advanced weapons on board. NOT lore friendly!
 
 ## Details
 
