@@ -24,7 +24,7 @@
         "UIName": "UrbanMech UM-R60LX",
         "Id": "mechdef_urbanmech_UM-R60LX",
         "Name": "UrbanMech",
-        "Details": "The UM-R60L variant with High Velocity Autocannon.",
+        "Details": "The UM-R60L variant with Hypervelocity Autocannon.",
         "Icon": "uixTxrIcon_urbanmech"
     },
     "simGameMechPartCost": 250000,

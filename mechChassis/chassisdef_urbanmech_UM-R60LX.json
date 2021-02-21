@@ -8,7 +8,7 @@
         "UIName" : "UrbanMech",
         "Id" : "chassisdef_urbanmech_UM-R60LX",
         "Name" : "UrbanMech",
-        "Details" : "The UM-R60L variant with High Velocity Autocannon.",
+        "Details" : "The UM-R60L variant with Hypervelocity Autocannon.",
         "Icon" : "uixTxrIcon_urbanmech"
     },
     "MovementCapDefID" : "movedef_urbanmech_UM-R60",
@@ -18,7 +18,7 @@
     "PrefabBase" : "urbanmech",
     "VariantName" : "UM-R60LX",
     "StockRole" : "Skirmisher",
-    "YangsThoughts" : "The UM-R60L variant with High Velocity Autocannon.",
+    "YangsThoughts" : "The UM-R60L variant with Hypervelocity Autocannon.",
     "Tonnage" : 30,
     "InitialTonnage" : 8.5,
     "weightClass" : "LIGHT",

@@ -8,7 +8,7 @@
         "UIName": "Blackjack",
         "Id": "chassisdef_blackjack_BJ-1X",
         "Name": "Blackjack",
-        "Details": "Blackjack 1 variant with High Velocity Autocannons.",
+        "Details": "Blackjack 1 variant with Hypervelocity Autocannons.",
         "Icon": "uixTxrIcon_blackjack"
     },
     "MovementCapDefID": "movedef_blackjack_BJ-1",
@@ -206,5 +206,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Fire Support & Skirmisher",
-    "YangsThoughts": "Blackjack 1 variant with High Velocity Autocannons."
+    "YangsThoughts": "Blackjack 1 variant with Hypervelocity Autocannons."
 }

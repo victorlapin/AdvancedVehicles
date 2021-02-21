@@ -27,7 +27,7 @@
         "UIName": "Blackjack BJ-1X",
         "Id": "mechdef_blackjack_BJ-1X",
         "Name": "Blackjack",
-        "Details": "Blackjack 1 variant with High Velocity Autocannons.",
+        "Details": "Blackjack 1 variant with Hypervelocity Autocannons.",
         "Icon": "uixTxrIcon_blackjack"
     },
     "simGameMechPartCost": 440000,

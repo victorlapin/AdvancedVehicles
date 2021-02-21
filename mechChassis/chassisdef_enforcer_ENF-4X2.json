@@ -8,7 +8,7 @@
         "UIName": "Enforcer",
         "Id": "chassisdef_enforcer_ENF-4X2",
         "Name": "Enforcer",
-        "Details": "Enforcer 4R variant with High Velocity Autocannon.",
+        "Details": "Enforcer 4R variant with Hypervelocity Autocannon.",
         "Icon": "uixTxrIcon_enforcer"
     },
     "MovementCapDefID": "movedef_enforcer_ENF-4R",
@@ -201,5 +201,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Fire Support & Skirmisher",
-    "YangsThoughts": "Enforcer 4R variant with High Velocity Autocannon."
+    "YangsThoughts": "Enforcer 4R variant with Hypervelocity Autocannon."
 }
