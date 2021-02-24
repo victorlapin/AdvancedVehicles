@@ -8,7 +8,7 @@
         "UIName": "Centurion",
         "Id": "chassisdef_centurion_CN9-AX2",
         "Name": "Centurion",
-        "Details": "Centurion 9-A variant with Hypervelocity Autocannon.",
+        "Details": "A sturdy and reliable 'Mech, the Centurion is good at both taking and giving a beating. CN9-A models are able to engage at any range, but their damage curve increases as they approach a target.",
         "Icon": "uixTxrIcon_centurion"
     },
     "MovementCapDefID": "movedef_centurion_CN9-A",
@@ -201,5 +201,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Brawler & General Assault",
-    "YangsThoughts": "Centurion 9-A variant with Hypervelocity Autocannon."
+    "YangsThoughts": "A sturdy and reliable 'Mech, the Centurion is good at both taking and giving a beating. CN9-A models are able to engage at any range, but their damage curve increases as they approach a target."
 }

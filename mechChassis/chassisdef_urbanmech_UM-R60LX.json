@@ -8,7 +8,7 @@
         "UIName" : "UrbanMech",
         "Id" : "chassisdef_urbanmech_UM-R60LX",
         "Name" : "UrbanMech",
-        "Details" : "The UM-R60L variant with Hypervelocity Autocannon.",
+        "Details" : "The UM-R60L is a modification of the standard R60 UrbanMech that replaces the AC/10 and 2 tons of armor with an AC/20 to double its firepower. With even less combat endurance than the R60, the R60L is favored in ambush or hit-and-run tactics.",
         "Icon" : "uixTxrIcon_urbanmech"
     },
     "MovementCapDefID" : "movedef_urbanmech_UM-R60",
@@ -18,7 +18,7 @@
     "PrefabBase" : "urbanmech",
     "VariantName" : "UM-R60LX",
     "StockRole" : "Skirmisher",
-    "YangsThoughts" : "The UM-R60L variant with Hypervelocity Autocannon.",
+    "YangsThoughts" : "The UM-R60L is a modification of the standard R60 UrbanMech that replaces the AC/10 and 2 tons of armor with an AC/20 to double its firepower. With even less combat endurance than the R60, the R60L is favored in ambush or hit-and-run tactics.",
     "Tonnage" : 30,
     "InitialTonnage" : 8.5,
     "weightClass" : "LIGHT",
