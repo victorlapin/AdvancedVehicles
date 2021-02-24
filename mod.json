@@ -11,6 +11,7 @@
 	"Manifest": [
         { "Type": "VehicleDef", "Path": "vehicle/" },
 		{ "Type": "VehicleChassisDef", "Path": "vehicleChassis/" },
-		{ "Type": "MechDef", "Path": "mech/" }
+		{ "Type": "MechDef", "Path": "mech/" },
+		{ "Type": "ChassisDef", "Path": "mechChassis/" }
     ]
 }
