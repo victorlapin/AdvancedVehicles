@@ -6,7 +6,7 @@
         "Manufacturer": "",
         "Model": "",
         "UIName": "Enforcer",
-        "Id": "chassisdef_enforcer_ENF-4X",
+        "Id": "chassisdef_enforcer_ENF-4RX",
         "Name": "Enforcer",
         "Details": "Enforcer 4R models combine the hefty power of an Autocannon and massive Laser with the mobility of Jump Jets\u2014a deadly combination. Able to engage at medium-long all the way to point-blank range, these 'Mechs are flexible and surprising in combat.",
         "Icon": "uixTxrIcon_enforcer"
@@ -195,7 +195,7 @@
             "z": 2.5
         }
     ],
-    "VariantName": "ENF-4X",
+    "VariantName": "ENF-4RX",
     "ChassisTags": {
         "items": [],
         "tagSetSourceFile": ""
