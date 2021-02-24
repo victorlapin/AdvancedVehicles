@@ -16,7 +16,7 @@
         ],
         "tagSetSourceFile": ""
     },
-    "ChassisID": "chassisdef_enforcer_ENF-4R",
+    "ChassisID": "chassisdef_enforcer_ENF-4X2",
     "HeraldryID": null,
     "Description": {
         "Cost": 5160000,
@@ -27,7 +27,7 @@
         "UIName": "Enforcer ENF-4X2",
         "Id": "mechdef_enforcer_ENF-4X2",
         "Name": "Enforcer",
-        "Details": "Enforcer 4R models combine the hefty power of an Autocannon and massive Laser with the mobility of Jump Jets\u2014a deadly combination. Able to engage at medium-long all the way to point-blank range, these 'Mechs are flexible and surprising in combat.",
+        "Details": "Enforcer 4R variant with Hypervelocity Autocannon.",
         "Icon": "uixTxrIcon_enforcer"
     },
     "simGameMechPartCost": 520000,
