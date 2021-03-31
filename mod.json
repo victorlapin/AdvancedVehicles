@@ -1,10 +1,10 @@
 {
     "Name": "TonsOfEnemies",
     "Enabled": true,
-    "Version": "1.9.1-001b",
+    "Version": "1.9.1-002b",
     "Description": "Introduces vehicles and Mechs with advanced weapons on board",
     "Author": "Victor Lapin",
-    "Website": "https://github.com/victorlapin/AdvancedVehicles",
+    "Website": "https://github.com/victorlapin/TonsOfEnemies",
     "Contact": "victor.lapin@outlook.com",
 	"DependsOn" : [
 	    "HardcoreWeapons",
