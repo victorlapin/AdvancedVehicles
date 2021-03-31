@@ -41,13 +41,13 @@
 	  "DamageLevel" : "Functional"
     },
     {
-      "ComponentDefID": "Weapon_MachineGun_MachineGun_0-STOCK",
+      "ComponentDefID": "Weapon_AntiPersonnelGauss_APG",
       "ComponentDefType": "Weapon",
       "HardpointSlot": 3,
 	  "DamageLevel" : "Functional"
     }, 
     {
-      "ComponentDefID": "Weapon_MachineGun_MachineGun_0-STOCK",
+      "ComponentDefID": "Weapon_AntiPersonnelGauss_APG",
       "ComponentDefType": "Weapon",
       "HardpointSlot": 4,
 	  "DamageLevel" : "Functional"
@@ -63,13 +63,6 @@
       "ComponentDefType": "AmmunitionBox",
       "HardpointSlot": -1,
 	  "DamageLevel" : "Functional"
-    },
-    {
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG",
-      "ComponentDefType": "AmmunitionBox",
-      "HardpointSlot": -1,
-	  "DamageLevel" : "Functional"
-    } 
-          
+    }     
    ]
 }
