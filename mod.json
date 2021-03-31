@@ -9,6 +9,7 @@
 	"DependsOn" : [
 	    "HardcoreWeapons",
 		"StreakMissileLaunchers",
+		"HoSGearIS",
 		"Even More Gear",
 		"More Lazerz",
 		"More Rokkits"
