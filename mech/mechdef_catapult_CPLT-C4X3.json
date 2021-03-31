@@ -197,11 +197,11 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "CenterTorso",
+            "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_FCS_ArtemisV",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
-            "HardpointSlot": 1,
+            "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,
