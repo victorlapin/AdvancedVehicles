@@ -1,12 +1,18 @@
 {
-    "Name": "AdvancedVehiclesAndMechs",
+    "Name": "TonsOfEnemies",
     "Enabled": true,
     "Version": "1.9.1-001b",
     "Description": "Introduces vehicles and Mechs with advanced weapons on board",
     "Author": "Victor Lapin",
     "Website": "https://github.com/victorlapin/AdvancedVehicles",
     "Contact": "victor.lapin@outlook.com",
-	"DependsOn" : [ "HardcoreWeapons", "StreakMissileLaunchers" ],
+	"DependsOn" : [
+	    "HardcoreWeapons",
+		"StreakMissileLaunchers",
+		"Even More Gear",
+		"More Lazerz",
+		"More Rokkits"
+	],
 	
 	"Manifest": [
         { "Type": "VehicleDef", "Path": "vehicle/" },
