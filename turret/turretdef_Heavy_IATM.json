@@ -1,25 +1,25 @@
 {
    "Version" : 1,
    "Description" : {
-      "Id" : "turretdef_Standard_ATM",
-      "Name" : "Standard ATM Turret",
+      "Id" : "turretdef_Heavy_IATM",
+      "Name" : "Heavy ATM Turret",
       "Details" : "",
       "Icon" : "",
       "Cost" : 993,
       "Rarity" : 0,
       "Purchasable" : false
    },
-   "ChassisID" : "turretchassisdef_Standard_ATM",
+   "ChassisID" : "turretchassisdef_Heavy_IATM",
    "TurretTags": {
       "items": [
          "unit_turret",
-         "unit_medium"         
+         "unit_heavy"         
       ],
       "tagSetSourceFile": ""
    },
-   "CurrentArmor" : 200,
+   "CurrentArmor" : 300,
    "CurrentInternalStructure" : 1,
-   "AssignedArmor" : 200,
+   "AssignedArmor" : 300,
    "DamageLevel" : "Functional",
    "inventory" : [
     {
@@ -29,15 +29,21 @@
 	  "DamageLevel" : "Functional"
     },
     {
+      "ComponentDefID": "Weapon_ATM_IATM12_0-STOCK",
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 1,
+	  "DamageLevel" : "Functional"
+    },
+    {
       "ComponentDefID": "Weapon_MachineGun_MachineGun_0-STOCK",
       "ComponentDefType": "Weapon",
-      "HardpointSlot": 2,
+      "HardpointSlot": 4,
 	  "DamageLevel" : "Functional"
     }, 
     {
       "ComponentDefID": "Weapon_MachineGun_MachineGun_0-STOCK",
       "ComponentDefType": "Weapon",
-      "HardpointSlot": 3,
+      "HardpointSlot": 5,
 	  "DamageLevel" : "Functional"
     }, 	
     {
