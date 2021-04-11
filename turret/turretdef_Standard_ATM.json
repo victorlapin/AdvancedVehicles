@@ -23,13 +23,13 @@
    "DamageLevel" : "Functional",
    "inventory" : [
     {
-      "ComponentDefID": "Weapon_LRM_ATM12",
+      "ComponentDefID": "Weapon_LRM_ATM12_CLAN",
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
 	  "DamageLevel" : "Functional"
     },
     {
-      "ComponentDefID": "Weapon_LRM_ATM12",
+      "ComponentDefID": "Weapon_LRM_ATM12_CLAN",
       "ComponentDefType": "Weapon",
       "HardpointSlot": 2,
 	  "DamageLevel" : "Functional"
