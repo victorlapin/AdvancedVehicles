@@ -131,7 +131,7 @@
         }, 
         {
             "MountedLocation": "CenterTorso", 
-            "ComponentDefID": "Weapon_Laser_SmallLaserPulse_Clantech", 
+            "ComponentDefID": "Weapon_Laser_SmallLaserPulse_CLAN", 
             "SimGameUID": null, 
             "ComponentDefType": "Weapon", 
             "HardpointSlot": 0, 
@@ -142,7 +142,7 @@
         }, 
         {
             "MountedLocation": "CenterTorso", 
-            "ComponentDefID": "Weapon_Laser_SmallLaserPulse_Clantech", 
+            "ComponentDefID": "Weapon_Laser_SmallLaserPulse_CLAN", 
             "SimGameUID": null, 
             "ComponentDefType": "Weapon", 
             "HardpointSlot": 1, 

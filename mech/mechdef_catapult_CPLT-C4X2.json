@@ -230,7 +230,7 @@
         }, 
         {
             "MountedLocation": "CenterTorso", 
-            "ComponentDefID": "Weapon_Laser_LargeLaserPulse_Clantech", 
+            "ComponentDefID": "Weapon_Laser_LargeLaserPulse_CLAN", 
             "SimGameUID": "", 
             "ComponentDefType": "Weapon", 
             "HardpointSlot": 0, 
