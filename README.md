@@ -4,7 +4,7 @@
 
 ## Details
 
-This mod requires ModTek, Streak Missile Launchers and Haakon's Tons Of Guns.
+This mod requires ModTek, Hangar of Stompyness and Haakon's Tons Of Guns.
 
 **Why make this mod?**
 
@@ -16,6 +16,7 @@ Nothing. I'm not a die-hard lore nerd, so totally fine about RACs in 3025 enviro
 
 ## Thanks
 * HBS (obviously)
-* mad2342 (for streak missiles, also I'm using a whole bunch of your mods)
+* mad2342 (I'm using a whole bunch of your mods)
+* mattyxr (for HoS)
 * HaakonTheViking (for tons of weapons)
 * Axterix (for adding new tanks to the game, therefore providing me with the necessary examples)

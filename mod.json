@@ -8,7 +8,6 @@
     "Contact": "victor.lapin@outlook.com",
 	"DependsOn" : [
 	    "HardcoreWeapons",
-		"StreakMissileLaunchers",
 		"HoSGearIS",
 		"HoSGearCLAN",
 		"Even More Gear",
