@@ -29,7 +29,7 @@
 	  "DamageLevel" : "Functional"
     },
     {
-      "ComponentDefID": "WWeapon_SRM_SRM6_STREAK_CLAN",
+      "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN",
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
 	  "DamageLevel" : "Functional"
