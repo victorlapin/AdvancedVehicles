@@ -24,6 +24,7 @@
 		{ "Type": "ChassisDef", "Path": "mechChassis/" },
 		{ "Type": "TurretDef", "Path": "turret/" },
 		{ "Type": "TurretChassisDef", "Path": "turretChassis/" },
-		{ "Type": "UpgradeDef", "Path": "upgrade/" }
+		{ "Type": "UpgradeDef", "Path": "upgrade/" },
+		{ "Type": "WeaponDef", "Path": "weapon/"}
     ]
 }
