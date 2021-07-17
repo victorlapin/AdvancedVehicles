@@ -322,7 +322,7 @@
         },
         {
             "MountedLocation": "RightLeg",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRMStreak",
             "SimGameUID": null,
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,

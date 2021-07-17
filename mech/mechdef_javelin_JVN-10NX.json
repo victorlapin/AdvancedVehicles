@@ -5,12 +5,12 @@
             "unit_light",
             "unit_role_scout",
             "unit_jumpOK",
-			"unit_release",
+            "unit_release",
             "unit_dlc",
-			"unit_range_medium",
-			"unit_speed_high",
-			"unit_armor_low",
-			"Davion"
+            "unit_range_medium",
+            "unit_speed_high",
+            "unit_armor_low",
+            "Davion"
         ],
         "tagSetSourceFile": ""
     },
@@ -118,7 +118,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRMStreak",
             "SimGameUID": null,
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,
@@ -140,7 +140,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRMStreak",
             "SimGameUID": null,
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,
@@ -149,7 +149,7 @@
             "prefabName": null,
             "hasPrefabName": false
         },
-		{
+        {
             "MountedLocation": "CenterTorso",
             "ComponentDefID": "Gear_JumpJet_Generic_Standard",
             "SimGameUID": null,
